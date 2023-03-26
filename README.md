@@ -25,6 +25,17 @@ A list of all my presentations, in chronological order.
 - [Link to event details](https://www.meetup.com/montreal-dbt-meetup/events/291595000).
 - [Link to presentation slides](/resources/dbt_meetup_march_22nd_2023.pdf).
 
+# Blog articles
+A list of blog posts / written material delivered by yours trully. 
+
+### Janury 5th 2023 - Data Analytics at Potloc I: Making data integrity your priority with Elementary & Meltano
+[Link to article](https://dev.to/potloc/data-analytics-at-potloc-i-making-data-integrity-your-priority-with-elementary-meltano-1ob).
+
+**Synopsis**: The first of (I hope) a series of articles on how we tackle data issues at Potloc, this on inspired our presentation on Elementary given at our montreal dbt meetup. In this article, we discuss:
+- Issues with dbt.
+- How Elementary can help.
+- How to implement elementary using meltano.
+- Why Elementary is useless without best practices. 
 
 # Reading material / teachings
 A list of different articles / books I have read and what we learnt from them.
