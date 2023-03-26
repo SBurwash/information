@@ -31,6 +31,7 @@ A list of different articles / books I have read and what we learnt from them.
 
 ### Agile Data Warehouse Design
 [Link to book](https://www.amazon.ca/dp/0956817203/ref=cm_sw_r_api_i_RN0Z16B6Q3SBJ0EG39PQ_0)
+
 **Finished reading**: January 1st 2023
 
 **Synopsis**: Agile data warehouse design and how to build a data mart from the ground up.
@@ -45,4 +46,20 @@ A list of different articles / books I have read and what we learnt from them.
 - Visual modeling: sketching timelines, charts and grids to model complex process measurement – simply
 - Agile design documentation: enhancing star schemas with BEAM dimensional shorthand notation
 - Solving difficult DW/BI performance and usability problems with proven dimensional design patterns
+
+### Fundamentals of Data Engineering
+[Link to book](https://www.amazon.ca/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302).
+
+**Finished reading**: April 1st 2023
+
+**Synopsis**: Everything you need to know about data engineering, from setting up on-prem warehouses all the way to managing data marts and implementing reverse-etl. Incredibly insightful, but a bit dense - would recommend this as a book once you have a basic grasp on concepts, or else you may gloss over some key insights (god knows I have).
+
+This book is much more focused on best practices than on actual technologies, which makes it a bit more timeless.
+
+**Lessons / Concepts**:
+- Get a concise overview of the entire data engineering landscape
+- Assess data engineering problems using an end-to-end framework of best practices
+- Cut through marketing hype when choosing data technologies, architecture, and processes
+- Use the data engineering lifecycle to design and build a robust architecture
+- Incorporate data governance and security across the data engineering lifecycle
 
