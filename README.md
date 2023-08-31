@@ -25,8 +25,17 @@ A list of all my presentations, in chronological order.
 - [Link to event details](https://www.meetup.com/montreal-dbt-meetup/events/291595000).
 - [Link to presentation slides](/resources/dbt_meetup_march_22nd_2023.pdf).
 
+### Augsut 21st, 2023 - MDS Fest 2023 - Building your data stack: best practice starter kit
+
+**Event Description**: Event organized by data practitioners for data practitioners. I gave a presentation on how to get started in the MDS (modern data stack) **from the perspective of someone that was themselves only getting started**.
+
+**Resources**
+- [Link to event details](https://www.linkedin.com/events/buildingyourdatastack-bestpract7091795988138389504/comments/)
+- [Link to slides](https://docs.google.com/presentation/d/1RVO0stlPkaOJ2IWhxgjEQJhMYrSktx5R2wr6RCx8Cak/edit?usp=sharing)
+- [Link to presentation](https://drive.google.com/file/d/1gRz6nzgko_uWxBCBVU8URG5Xihpvn4GL/view?usp=drive_link)
+
 # Blog articles
-A list of blog posts / written material delivered by yours trully. 
+A list of blog posts / written material delivered by yours truly. 
 
 ### Janury 5th 2023 - Data Analytics at Potloc I: Making data integrity your priority with Elementary & Meltano
 [Link to article](https://dev.to/potloc/data-analytics-at-potloc-i-making-data-integrity-your-priority-with-elementary-meltano-1ob).
