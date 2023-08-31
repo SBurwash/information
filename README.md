@@ -35,7 +35,15 @@ A list of blog posts / written material delivered by yours trully.
 - Issues with dbt.
 - How Elementary can help.
 - How to implement elementary using meltano.
-- Why Elementary is useless without best practices. 
+- Why Elementary is useless without best practices.
+
+### July 5th 2023 - Life of a Data Engineer Part 1: What is it?
+[Link to article](https://burwashstephane.substack.com/p/life-of-a-data-engineer-part-1-what).
+
+**Synopsis**: Describing what a day in the life of a data-engineer is like, based on personal experience.
+- Defining responsibilities
+- Typical data pipeline, from raw data all the way to dashboard
+- Defining stakeholders
 
 # Reading material / teachings
 A list of different articles / books I have read and what we learnt from them.
