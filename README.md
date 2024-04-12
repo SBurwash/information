@@ -34,6 +34,16 @@ A list of all my presentations, in chronological order.
 - [Link to slides](https://docs.google.com/presentation/d/1RVO0stlPkaOJ2IWhxgjEQJhMYrSktx5R2wr6RCx8Cak/edit?usp=sharing)
 - [Link to presentation](https://drive.google.com/file/d/1gRz6nzgko_uWxBCBVU8URG5Xihpvn4GL/view?usp=drive_link)
 
+### Arpril 10th, 2024 - MDS Fest 2024 - Crafting Effective Data Team Job Descriptions: A Comprehensive Guide
+
+**Event Description**: Event organized by data practitioners for data practitioners. I gave a presentation on **the preliminary steps required to write a good job description & attract talented data practitioners.
+
+**Resources**
+- [Link to blog post](https://stephaneburwash.substack.com/publish/posts/detail/141766191?referrer=%2Fpublish%2Fposts)
+- [Link to slides](https://docs.google.com/presentation/d/1DqWeqKMOKE8lLSnsmQeBywEoALHHemokc9mvdGsS9v0/edit?usp=sharing)
+- [Link to full video](https://mds-fest.heysummit.com/talks/you-skipped-page-1-the-pre-requisites-to-growing-the-data-team/)
+- [Link to full event page](https://www.mdsfest.com/)
+
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
