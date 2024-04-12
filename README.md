@@ -47,6 +47,14 @@ A list of all my presentations, in chronological order.
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
+### April 10th 2024 - Crafting Effective Data Team Job Descriptions: A Comprehensive Guide
+[Link to article](https://stephaneburwash.substack.com/publish/posts/detail/141766191?referrer=%2Fpublish%2Fposts).
+
+**Synopsis**: Written in preparation for MDSFest 2.0, this article describes:
+- 4 steps required to write a good job description.
+- 4 key characteristics that are important for a data practitioner to have.
+
+
 ### Janury 5th 2023 - Data Analytics at Potloc I: Making data integrity your priority with Elementary & Meltano
 [Link to article](https://dev.to/potloc/data-analytics-at-potloc-i-making-data-integrity-your-priority-with-elementary-meltano-1ob).
 
