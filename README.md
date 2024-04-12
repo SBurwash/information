@@ -39,7 +39,7 @@ A list of all my presentations, in chronological order.
 **Event Description**: Event organized by data practitioners for data practitioners. I gave a presentation on **the preliminary steps required to write a good job description & attract talented data practitioners.
 
 **Resources**
-- [Link to blog post](https://stephaneburwash.substack.com/publish/posts/detail/141766191?referrer=%2Fpublish%2Fposts)
+- [Link to blog post](https://stephaneburwash.substack.com/p/hiring-with-confidence-in-data)
 - [Link to slides](https://docs.google.com/presentation/d/1DqWeqKMOKE8lLSnsmQeBywEoALHHemokc9mvdGsS9v0/edit?usp=sharing)
 - [Link to full video](https://mds-fest.heysummit.com/talks/you-skipped-page-1-the-pre-requisites-to-growing-the-data-team/)
 - [Link to full event page](https://www.mdsfest.com/)
@@ -48,7 +48,7 @@ A list of all my presentations, in chronological order.
 A list of blog posts / written material delivered by yours truly. 
 
 ### April 10th 2024 - Crafting Effective Data Team Job Descriptions: A Comprehensive Guide
-[Link to article](https://stephaneburwash.substack.com/publish/posts/detail/141766191?referrer=%2Fpublish%2Fposts).
+[Link to article](https://stephaneburwash.substack.com/p/hiring-with-confidence-in-data).
 
 **Synopsis**: Written in preparation for MDSFest 2.0, this article describes:
 - 4 steps required to write a good job description.
