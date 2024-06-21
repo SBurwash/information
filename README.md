@@ -44,6 +44,15 @@ A list of all my presentations, in chronological order.
 - [Link to full video](https://mds-fest.heysummit.com/talks/you-skipped-page-1-the-pre-requisites-to-growing-the-data-team/)
 - [Link to full event page](https://www.mdsfest.com/)
 
+### June 13th, 2024 - PyData Montreal #28 - Crafting Effective Data Team Job Descriptions: A Comprehensive Guide
+
+**Event Description**: PyData meetup at microsoft. I gave the same talk as above but to an in-person audiencce with great reception.
+
+**Resources**
+- [Link to blog post](https://stephaneburwash.substack.com/p/hiring-with-confidence-in-data)
+- [Link to slides](https://docs.google.com/presentation/d/1DqWeqKMOKE8lLSnsmQeBywEoALHHemokc9mvdGsS9v0/edit?usp=sharing)
+- [Link to full event page](https://www.meetup.com/pydata-mtl/events/300950183/)
+
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
