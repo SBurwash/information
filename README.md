@@ -53,6 +53,15 @@ A list of all my presentations, in chronological order.
 - [Link to slides](https://docs.google.com/presentation/d/1DqWeqKMOKE8lLSnsmQeBywEoALHHemokc9mvdGsS9v0/edit?usp=sharing)
 - [Link to full event page](https://www.meetup.com/pydata-mtl/events/300950183/)
 
+### September 17th, 2024 - Data Matas Podcast - Building Trusted Analytics at Potloc with Stéphane Burwash
+
+**Event Description**: Was guest on a podcast (my first) where we discussed coming up in the data engineering space, data integrity & stakeholder management. Was incredibly fun!
+
+**Resources**
+- [Link to spotify](https://open.spotify.com/episode/3wHeLkCeNfTe5KuxlrjLtc?si=ceac8424ce754bce))
+- [Link to youtube](https://www.youtube.com/watch?v=nsLPa0kl5_o&ab_channel=Matatika)
+- [Link to full event page](https://www.meetup.com/pydata-mtl/events/300950183/)
+
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
