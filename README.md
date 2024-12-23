@@ -64,6 +64,14 @@ A list of all my presentations, in chronological order.
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
+### December 24th 2024 - Keeping and eye on things
+[Link to article](https://open.substack.com/pub/burwash/p/keeping-an-eye-on-things?r=3bqcsy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true).
+
+**Synopsis**: Written post-creation of centralized observability stack at Potloc. It descivres:
+- 3 Challenges when monitoring data integrity at large accross multiple systems.
+- 3 iterations we went through to resolve this issue.
+- Key learnings & next steps.
+  
 ### April 10th 2024 - Crafting Effective Data Team Job Descriptions: A Comprehensive Guide
 [Link to article](https://stephaneburwash.substack.com/p/hiring-with-confidence-in-data).
 
