@@ -64,10 +64,18 @@ A list of all my presentations, in chronological order.
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
+### March 24th 2025 - Running for class president - Snowflake vs BigQuery based on adoption
+[Link to article](https://burwash.substack.com/p/running-for-class-president).
+
+**Synopsis**: Analysis of Snowflake & Bigquery user adoption following the scientific method. Key takeaways:
+- Accross the board, Snowflake is more widely adopted than BigQuery OR has a higher growth rate.
+- Analysis is based on multiple sources: (Reddit, Google Trends, db-engines & Pypi download statistics).
+- Is not an investigation in the quality of either tool, only it's adoption (and possible impacts).
+
 ### December 24th 2024 - Keeping and eye on things
 [Link to article](https://open.substack.com/pub/burwash/p/keeping-an-eye-on-things?r=3bqcsy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true).
 
-**Synopsis**: Written post-creation of centralized observability stack at Potloc. It descivres:
+**Synopsis**: Written post-creation of centralized observability stack at Potloc. It describes:
 - 3 Challenges when monitoring data integrity at large accross multiple systems.
 - 3 iterations we went through to resolve this issue.
 - Key learnings & next steps.
