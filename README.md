@@ -61,6 +61,15 @@ A list of all my presentations, in chronological order.
 - [Link to spotify](https://open.spotify.com/episode/3wHeLkCeNfTe5KuxlrjLtc?si=ceac8424ce754bce)
 - [Link to youtube](https://www.youtube.com/watch?v=nsLPa0kl5_o&ab_channel=Matatika)
 
+### April 23rd, 2025 - Montreal Snowflake user group - _Running for class president - Who's more popular between Snowflake & BigQuery_
+
+**Event Description**: Gave a presentation of at the Snowflake user group on the same topic as the [article](https://burwash.substack.com/p/running-for-class-president) of the same name.
+
+**Resources**
+- [Link to article](https://burwash.substack.com/p/running-for-class-president)
+- [Link to event page](https://usergroups.snowflake.com/events/details/snowflake-montreal-presents-snowflake-montreal-user-group-meetup-printemps-spring-2025/)
+
+
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
