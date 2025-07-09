@@ -73,6 +73,14 @@ A list of all my presentations, in chronological order.
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
+### July 7th 2025 - What is OpenFlow, and why should you care — A technical guide
+[Link to article](https://medium.com/infostrux-solutions/what-is-openflow-and-why-should-you-care-a-technical-guide-26c0fdec69f0).
+
+**Synopsis**: Journey to implement Openflow BYOC. Key takeways:
+- Openflow is a new EL offering from Snowflake powered by Apache NiFi.
+- As a new product, it has a few kinks that need to be fixed during rollout.
+- Article will quickly become deprecated as the bugs are fixed.
+
 ### March 24th 2025 - Running for class president - Snowflake vs BigQuery based on adoption
 [Link to article](https://burwash.substack.com/p/running-for-class-president).
 
