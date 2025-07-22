@@ -73,6 +73,17 @@ A list of all my presentations, in chronological order.
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
 
+
+
+### July 22nd 2025 - The AI-Era Litmus Test: Three Skills Your Next Data Partner Must Have (and One to Avoid)
+[Link to article](https://medium.com/@stefburwash/the-ai-era-litmus-test-three-skills-your-next-data-partner-must-have-and-one-to-avoid-87c9e7f49bb5).
+
+**Synopsis**: Skills to look for when choosing a data consultant. Key takeways:
+- Skill #1 - Innovation / Ahead of the curve
+- Skill #2 - Delivers value
+- Skill #3 - Rapport
+
+  
 ### July 7th 2025 - What is OpenFlow, and why should you care — A technical guide
 [Link to article](https://medium.com/infostrux-solutions/what-is-openflow-and-why-should-you-care-a-technical-guide-26c0fdec69f0).
 
