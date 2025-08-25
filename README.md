@@ -75,6 +75,16 @@ A list of blog posts / written material delivered by yours truly.
 
 
 
+### July 22nd 2025 - Building a React AI Agent: A Practical Guide for Developers
+[Link to article](https://blog.infostrux.com/building-a-react-ai-agent-a-practical-guide-for-developers-c867253df140).
+
+**Synopsis**: Step-by-step guide to writing a ReAct writing-assistant agent. Key takeways:
+- ReAct agent is a loop which ponders next steps
+- Easy to create basic bot with LangChain
+- Tools are main requirement to work with
+- Lots of work to do to make foolproof and relevant in workplace
+
+
 ### July 22nd 2025 - The AI-Era Litmus Test: Three Skills Your Next Data Partner Must Have (and One to Avoid)
 [Link to article](https://medium.com/@stefburwash/the-ai-era-litmus-test-three-skills-your-next-data-partner-must-have-and-one-to-avoid-87c9e7f49bb5).
 
