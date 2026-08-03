@@ -75,6 +75,16 @@ A list of blog posts / written material delivered by yours truly.
 
 
 
+### July 27th 2026 - Schrödinger's dashboard — Are they dead or are they not?
+[Link to article](https://medium.com/infostrux-solutions/schr%C3%B6dingers-dashboard-are-they-dead-or-are-they-not-4dc4c3ecb48e).
+
+**Synopsis**: Explores whether dashboards are being made obsolete by GenAI/agentic self-serve analytics. Key takeaways:
+- Dashboards were never the root issue — using them as the sole tool for deep investigative analysis was.
+- Agents have an edge in relevance & timeliness, but accuracy gets harder: it now depends on the quality of the question asked, not just the data.
+- Ad-hoc/single-use dashboards are on their way out, replaced by self-serve analytics backed by a solid semantic layer.
+- Data governance and "LLMOps" (tracking accuracy, feedback & changes over time) will become front and center as self-serve analytics scales.
+
+
 ### July 22nd 2025 - Building a React AI Agent: A Practical Guide for Developers
 [Link to article](https://blog.infostrux.com/building-a-react-ai-agent-a-practical-guide-for-developers-c867253df140).
 
