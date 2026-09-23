@@ -69,6 +69,26 @@ A list of all my presentations, in chronological order.
 - [Link to article](https://burwash.substack.com/p/running-for-class-president)
 - [Link to event page](https://usergroups.snowflake.com/events/details/snowflake-montreal-presents-snowflake-montreal-user-group-meetup-printemps-spring-2025/)
 
+### August 26th, 2026 - Snowflake Applied Data Modeling User Group - _That's just semantics - Best Practices when designing and deploying Snowflake Semantic Views_
+
+**Event Description**: Virtual session hosted by the Snowflake Applied Data Modeling user group (co-hosted by Veronika Durgin and Keith Evans).
+
+**Presentation Description**: What happens to your agents when you need to audit? Or revert? Or track the impact of a change on downstream performance? A look at bringing context into the software delivery life cycle when working with Snowflake Semantic Views and AI agents: distinguishing context from semantics, linking the two, and evaluating how context updates impact agent performance.
+
+**Resources**
+- [Link to event page](https://usergroups.snowflake.com/events/details/snowflake-applied-data-modeling-presents-thats-just-semantics-best-practices-when-designing-and-deploying-snowflake-semantic-views/)
+- [Link to presentation slides](/resources/thats_just_semantics_slides.pdf)
+
+### September 17th, 2026 - AI Meetup (NYC): GenAI, LLMs and Agents - _Best Practices when designing and deploying Snowflake Semantic Views_
+
+**Event Description**: In-person AICamp meetup at Jay Conference Bryant Park, New York, on GenAI, LLMs and agents.
+
+**Presentation Description**: Same talk as above, delivered to an in-person NYC audience: integrating context into the software delivery life cycle so agent iterations stay controlled and auditable.
+
+**Resources**
+- [Link to event page](https://www.aicamp.ai/event/eventdetails/W2026091714)
+- [Link to presentation slides](/resources/thats_just_semantics_slides.pdf)
+
 
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
