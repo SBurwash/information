@@ -97,7 +97,7 @@ A list of all my presentations, in chronological order.
 
 **Resources**
 - [Link to event announcement](https://www.linkedin.com/posts/st%C3%A9phane-burwash_looking-forward-to-speaking-in-montreal-next-share-7515765381324660736-9Dz1/)
-- [Link to presentation slides](https://claude.ai/artifact/Wj1Z8rQBZeyWtAQizp3zWq?sk=DyqkPEUfh0G23C4cXtwdXQ)
+- [Link to presentation slides](/resources/building_trust_odsc_montreal.pptx)
 
 
 # Blog articles
