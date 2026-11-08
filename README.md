@@ -89,6 +89,16 @@ A list of all my presentations, in chronological order.
 - [Link to event page](https://www.aicamp.ai/event/eventdetails/W2026091714)
 - [Link to presentation slides](/resources/thats_just_semantics_slides.pdf)
 
+### November 5th, 2026 - ODSC AI Skills Accelerator (Montréal) - _Building Trust - From AI pilot to production: knowing what to do next_
+
+**Event Description**: Free in-person ODSC AI meetup with Snowflake Montréal, shared with Augusto Rosa (Archetype Consulting), who covered agent frameworks (LangGraph, ADK, Cortex Agents) and where they fail. Thanks to Eugenia Kot and Aba Micah for organizing.
+
+**Presentation Description**: Picking up from what's underneath the agent: what has to be true around it before it's production-ready. How to turn a vague "be more AI" mandate into a concrete outcome, choose the minimum set of governance, data quality and security activities that build trust, and measure it. Based on a real client engagement (6 weeks from kickoff to the first production answer, 57 client-approved golden questions, ad-hoc questions down from about an hour to a 32-second median), and the main learning: AI exposes how well you understand your own business.
+
+**Resources**
+- [Link to event announcement](https://www.linkedin.com/posts/st%C3%A9phane-burwash_looking-forward-to-speaking-in-montreal-next-share-7515765381324660736-9Dz1/)
+- [Link to presentation slides](/resources/building_trust_odsc_montreal.pptx)
+
 
 # Blog articles
 A list of blog posts / written material delivered by yours truly. 
